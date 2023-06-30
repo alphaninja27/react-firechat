@@ -105,6 +105,7 @@ function App() {
           </h2>
           <p className="mb-8 text-lg text-center">
             Just Us.
+            Note - You Won't Be Able To Login Unless You're Dodo
           </p>
           <button
             onClick={signInWithGoogle}
